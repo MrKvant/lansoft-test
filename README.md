@@ -17,3 +17,4 @@
 ```Java``` ```Spring Boot``` ```Spring Data JPA``` ```Hibernate``` ```MySQL```
 
 ### БД
+![alt text](screenshot_database.png "")
