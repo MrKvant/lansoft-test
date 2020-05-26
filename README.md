@@ -14,6 +14,6 @@
 + Для упрощения можно использовать базу данных h2
 
 ### Используемые технологии:
-```Java``` ```Spring Boot``` ```Spring Data JPA``` ```Hibernate```
+```Java``` ```Spring Boot``` ```Spring Data JPA``` ```Hibernate``` ```MySQL```
 
 ### БД
